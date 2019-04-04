@@ -1,0 +1,103 @@
+CPS 272 - MACHINE PROBLEM 5 - QUEUES - GROCERY STORE CHECKOUT SIMULATION
+STEPHEN STRANAHAN - PROF. KHALED MANSOUR - 02/21/2019
+************************************************************************
+
+First customer will arrive at minute: 2
+
+(Minute: 2) *** Serving first customer. Time to complete: 2 minutes.
+(Minute: 4) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 6) *** Next customer arrived.
+(Minute: 8) *** Next customer arrived.
+(Minute: 8) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 10) *** Next customer arrived.
+(Minute: 10) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 12) *** Next customer arrived.
+(Minute: 12) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 13) *** Next customer arrived.
+(Minute: 14) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 15) *** Next customer arrived.
+(Minute: 16) *** Next customer arrived.
+(Minute: 17) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 19) *** Next customer arrived.
+(Minute: 19) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 20) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 21) *** Next customer arrived.
+(Minute: 23) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 24) *** Next customer arrived.
+(Minute: 25) *** Next customer arrived.
+(Minute: 25) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 26) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 28) *** Next customer arrived.
+(Minute: 28) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 30) *** Next customer arrived.
+(Minute: 32) *** Next customer arrived.
+(Minute: 32) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 33) *** Next customer arrived.
+(Minute: 34) *** Next customer arrived.
+(Minute: 35) *** Next customer arrived.
+(Minute: 36) *** Next customer arrived.
+(Minute: 36) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 38) *** Next customer arrived.
+(Minute: 39) *** Next customer arrived.
+(Minute: 40) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 41) *** Next customer arrived.
+(Minute: 41) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 43) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 45) *** Next customer arrived.
+(Minute: 47) *** Next customer arrived.
+(Minute: 47) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 48) *** Next customer arrived.
+(Minute: 51) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 52) *** Next customer arrived.
+(Minute: 53) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 55) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 56) *** Next customer arrived.
+(Minute: 58) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 60) *** Next customer arrived.
+(Minute: 62) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 63) *** Next customer arrived.
+(Minute: 65) *** Next customer arrived.
+(Minute: 65) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 68) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 69) *** Next customer arrived.
+(Minute: 70) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 72) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 73) *** Next customer arrived.
+(Minute: 75) *** Next customer arrived.
+(Minute: 75) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 76) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 77) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 78) *** Next customer arrived.
+(Minute: 79) *** Next customer arrived.
+(Minute: 80) *** Next customer arrived.
+(Minute: 80) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 84) *** Next customer arrived.
+(Minute: 84) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 85) *** Next customer arrived.
+(Minute: 87) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 88) *** Next customer arrived.
+(Minute: 90) *** Next customer arrived.
+(Minute: 91) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 92) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 94) *** Next customer arrived.
+(Minute: 95) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 97) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 98) *** Next customer arrived.
+(Minute: 100) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 101) *** Next customer arrived.
+(Minute: 102) *** Next customer arrived.
+(Minute: 103) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 105) *** Next customer arrived.
+(Minute: 106) *** Checkout complete. Next customer service time: 1 minutes.
+(Minute: 107) *** Next customer arrived.
+(Minute: 107) *** Checkout complete. Next customer service time: 3 minutes.
+(Minute: 110) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 111) *** Next customer arrived.
+(Minute: 114) *** Next customer arrived.
+(Minute: 114) *** Checkout complete. Next customer service time: 2 minutes.
+(Minute: 116) *** Checkout complete. Next customer service time: 4 minutes.
+(Minute: 117) *** Next customer arrived.
+
+*******************************************************************************************
+Simulation complete: 120 minutes elapsed. 5 customers remained in line.
+The maximum number of customers in line was: 7 and the longest individual wait time was: 20 minutes.
